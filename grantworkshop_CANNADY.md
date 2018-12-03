@@ -16,7 +16,6 @@ Further, a goal would be to encourage minority students to participate in extrac
 This program will focus on allowing minority students, especially those with challenging socioeconomic backgrounds, to be able to attend and participate in camps, 
 workshops, etc. and equalize their opportunity with non-minority groups to increase their skills with technology and related fields. 
 Digital humanities methods that would be useful in this project include: 
-Spatial data- comparing areas of economic success with educational success; comparing income or education completed to race
 Networking: comparing a student's success over time then comparing that to other students of varying economic and racial backgrounds
 The expected result of this project would be that minority students that do not have the means to receive the same level of additional math, science, adn technical
 training as non-minority students would be able to receive that education and expand their knowledge of their fields of interest. 
